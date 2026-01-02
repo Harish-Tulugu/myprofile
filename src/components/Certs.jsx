@@ -16,24 +16,10 @@ const certsData = [
     link: "https://example.com",
   },
   {
-    title: "Embedded Systems Training Program by INDAC",
-    issuer: "INDAC",
-    year: "2022",
-    description: "Associated with RGUKT IIIT SRIKAKULAM",
-    link: null,
-  },
-  {
     title: "Python Workshop by APSSDC ",
     issuer: "APSSDC",
     year: "2022",
     description: "Attended python workshop 3 times conducted by APSSDC ",
-    link: null,
-  },
-  {
-    title: "Master Class on Machine Learning ",
-    issuer: "Pantech Solutions",
-    year: "2023",
-    description: "It is 1-month Virtual Internship program from Pantech Solutions  ",
     link: null,
   },
   {
@@ -47,13 +33,6 @@ const certsData = [
     title: "Achieved Gold Medal in SSC",
     issuer: "Board of Secondary Education of Andhra Pradesh (BSEAP)",
     year: "2017",
-    description: "Got 20000 INR for excellence in SSC",
-    link: null,
-  },
-  {
-    title: "Achived Gold Medal FROM NACL Industries Limited",
-    issuer: "NACL Industries Ltd",
-    year: "2022",
     description: "Got 20000 INR for excellence in SSC",
     link: null,
   },

@@ -4,14 +4,14 @@ const experienceData = [
   {
     role: "Backend Developer Intern",
     company: "Galvanize Global Education,Chennai",
-    duration: "Jan 2023 – Jun 2023",
+    duration: "Jan 2023 – Feb 2023",
     description:
       "Built and optimized REST APIs using Spring Boot and improved database performance.",
   },
   {
     role: " JR.SOFTWARE DEVELOPMENT ENGINEER",
     company: "Self-employed",
-    duration: "July 2023 – Present",
+    duration: "Feb 2023 – Present",
     description:
       "Developed responsive websites and dashboards using Python,Django,Postgresql,AWS etc.",
   },
